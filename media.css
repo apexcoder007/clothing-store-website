@@ -8,13 +8,12 @@
 		width: 100%;
 /*		top: 0;*/
 	}
-/*	banner image*/
 	.banner{
 		background-size: cover;
 		min-height: 60vh;
 	}
 
-/*card items images text etc*/
+
 	.card-item{
 		width: 45%;
 		gap: 10px;
